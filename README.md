@@ -13,7 +13,7 @@ Front-end technologies, especially React, to enhance user experience.
 Best practices for being a successful Full Stack Developer.
 
 🛠️ Technologies I’m Exploring:
-Cloud platforms like AWS or Azure to host applications.
+Cloud platforms like AWS and Azure to host applications.
 Git and GitHub for version control and teamwork.
 Agile methods and tools like JIRA for managing projects.
 
