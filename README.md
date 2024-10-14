@@ -16,5 +16,5 @@ Cloud platforms like AWS or Azure to host applications.
 Git and GitHub for version control and teamwork.
 Agile methods and tools like JIRA for managing projects.
 📫 How to Reach Me:
-LinkedIn linkedin.com/in/ashutosh-shelke-344835247
+LinkedIn (linkedin.com/in/ashutosh-shelke-344835247)
 Email: ashutoshshelke.snj@gmail.com
