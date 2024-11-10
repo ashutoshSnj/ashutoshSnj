@@ -18,5 +18,5 @@ Git and GitHub for version control and teamwork.
 Agile methods and tools like JIRA for managing projects.
 
 📫 How to Reach Me:
-[LinkedIn](linkedin.com/in/ashutosh-shelke-344835247)
+[LinkedIn](https://www.linkedin.com/in/ashutosh-fullstackdeveloper)
 Email: ashutoshshelke.snj@gmail.com
