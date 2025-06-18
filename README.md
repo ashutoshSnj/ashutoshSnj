@@ -1,22 +1,51 @@
-Hi, I'm Ashutosh Shelke 👋
-I’m a motivated Full Stack Developer and a recent graduate with skills in Java, Advanced Java, C, C++, Data Structures & Algorithms (DSA), and JavaScript. I love building responsive and user-friendly applications and enjoy solving coding challenges. I’m excited to work on meaningful IT projects and learn from others in the field.
+<h1 align="center">Hi 👋, I'm Ashutosh Shelke</h1>
+<h3 align="center">Aspiring Full Stack Java Developer</h3>
 
-🌟 What I Do:
-Full Stack Development using Java for back-end and JavaScript for front-end work.
-Creating interactive user interfaces with React and making sure they look good on all devices with CSS3.
-Solving problems and designing algorithms with DSA.
-Working with APIs and managing data using SQL and NoSQL databases.
+---
 
-📚 What I’m Learning:
-Advanced Java frameworks like Spring and Hibernate to improve my back-end skills.
-Front-end technologies, especially React, to enhance user experience.
-Best practices for being a successful Full Stack Developer.
+🎓 I am a Computer Engineering graduate (2024 passout) and a passionate learner in the field of software development.
 
-🛠️ Technologies I’m Exploring:
-Cloud platforms like AWS and Azure to host applications.
-Git and GitHub for version control and teamwork.
-Agile methods and tools like JIRA for managing projects.
+💻 I have hands-on experience in building small full stack projects using:
 
-📫 How to Reach Me:
-[LinkedIn](https://www.linkedin.com/in/ashutosh-fullstackdeveloper)
-Email: ashutoshshelke.snj@gmail.com
+- 🔹 **Spring Boot** – for creating RESTful backend APIs  
+- 🔹 **Hibernate/JPA** – for database operations  
+- 🔹 **MySQL** – for managing data  
+- 🔹 **Angular & JavaScript** – for frontend development  
+- 🔹 **HTML, CSS** – for basic UI design  
+
+---
+
+### 🚀 What I'm Currently Doing
+
+- Practicing full stack projects to strengthen my skills.
+- Learning advanced Spring Boot and Angular concepts.
+- Preparing for technical interviews and improving my communication skills.
+
+---
+
+### 📚 My Tech Stack
+
+| Backend     | Frontend       | Database | Tools & Others        |
+|-------------|----------------|----------|------------------------|
+| Spring Boot | Angular, HTML  | MySQL    | Git, Postman, Maven    |
+| Hibernate   | JavaScript     |          | VS Code, Eclipse IDE   |
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: [Ashutosh Shelke](www.linkedin.com/in/ashutosh-fullstackdeveloper
+  ) 
+- Email: ashutoshshelke24@gmail.com 
+
+---
+
+### 💡 Goals
+
+- Get my first job as a Full Stack Java Developer  
+- Build practical and useful projects  
+- Keep learning and growing every day  
+
+---
+
+🌟 *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
