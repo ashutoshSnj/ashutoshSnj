@@ -34,8 +34,7 @@
 
 ### 📫 Connect with Me
 
-- LinkedIn: [Ashutosh Shelke](www.linkedin.com/in/ashutosh-fullstackdeveloper
-  ) 
+- LinkedIn: [Ashutosh Shelke](https://www.linkedin.com/in/ashutosh-fullstackdeveloper)
 - Email: ashutoshshelke24@gmail.com 
 
 ---
